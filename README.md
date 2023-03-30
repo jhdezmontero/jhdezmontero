@@ -18,7 +18,7 @@
   
 ### 👨‍💻 About me:
 
-* 🦇 I'm a biologist interested mostly in bat research you can check out my profile in [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hernandez-Montero-Jesus-Rafael)
+* 🦇 I'm a biologist interested mostly in bat research, you can check out my scientific work in [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hernandez-Montero-Jesus-Rafael)
 
 * 💻 Currently I'm interested in data science to boost my research skill in ecology, but also to solve other problems outside of academia
 
