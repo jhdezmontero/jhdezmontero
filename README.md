@@ -16,19 +16,24 @@
 
 </div>  
   
-👨‍💻 About me:
+### 👨‍💻 About me:
 
 * 🦇 I'm a biologist interested mostly in bat research you can check out my profile in [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hernandez-Montero-Jesus-Rafael)
 
 * 💻 Currently I'm interested in data science to boost my research skill in ecology, but also to solve other problems outside of academia
 
-* 🦥 I discover programming because I don't like to work hard but work smart
+* 🦥 I discover programming because I like to work smart and love automatization
 
 * 🤓 I love programming and data analysis/science and I'm always learning something new to stay up dated
 
 * 🇲🇽 I'm from Mexico but currently I'm leaving in Germany 🇩🇪
 
-* I open to colaborations and work opportunities related to data science and analysis, you can contact me through [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squared&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhdezmontero/)
+* I'm open to colaborations and work opportunities related to data science and analysis, you can contact me through [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squared&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhdezmontero/)
+
+---
+### Projects 
+
+You can look my data science and analysis projects in my repository [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-squared)](https://github.com/jhdezmontero/Yandex_bootcamp_proyects)
 
 
 ---
@@ -48,11 +53,6 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
 </div>
   
-
-### Projects 
-
-You can look my data science and analysis projects in my repository [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-squared)](https://github.com/jhdezmontero/Yandex_bootcamp_proyects)
-
 
 <!--
 **jhdezmontero/jhdezmontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
