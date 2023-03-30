@@ -26,7 +26,7 @@
 
 * 🤓 I love programming and data analysis/science and I'm always learning something new to stay up dated
 
-* 🇲🇽 I'm from Mexico but currently I'm leaving in Germany 🇩🇪
+* 🇲🇽 I'm from Mexico but currently I'm living in Germany 🇩🇪
 
 * I'm open to colaborations and work opportunities related to data science and analysis, you can contact me through [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squared&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhdezmontero/)
 
