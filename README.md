@@ -45,8 +45,14 @@
     <img src="https://img.shields.io/badge/-Tidyverse-1A162D?logo=tidyverse&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
 </div>
   
+
+### Projects 
+
+You can look my data science and analysis projects in my repository [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-squared)](https://github.com/jhdezmontero/Yandex_bootcamp_proyects)
+
 
 <!--
 **jhdezmontero/jhdezmontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
