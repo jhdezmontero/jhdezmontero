@@ -31,9 +31,11 @@
 * I'm open to collaborations and work opportunities related to data science and analysis, you can contact me through [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squared&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhdezmontero/)
 
 ---
-### Projects 
+## 🌟 Projects 
 
-You can look my data science and analysis projects in my repository [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-squared)](https://github.com/jhdezmontero/Yandex_bootcamp_proyects)
+You can look my data science and analysis projects in my repository 👉 [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-squared)](https://github.com/jhdezmontero/Yandex_bootcamp_proyects). 
+
+I did these projects during the Yandex data science bootcamp to solve real-world problems. I will keep adding other data science projects to this repository, stay tuned 😉.
 
 
 ---
